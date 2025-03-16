@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./Components/Navbar";
 import Dashboard from "./Components/Dashboard";
 import TaxCalculatorPage from "./TaxCalculator";
-import Login from "./Components/pages/Login";
+import Login from "./Components/pages/login";
 import Signup from "./Components/pages/Signup";
 import InterestCalculator from "./calculators/InterestCalculator";
 import IncomeTaxCalculator from "./calculators/IncomeTaxCalculator";
