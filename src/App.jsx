@@ -30,7 +30,7 @@ import FreelancerConsultant from "./Components/pages/FreeLancerConsultant.jsx";
 import Tdsb from "./Components/Tdsb.jsx";
 import Itrb from "./Components/Itrb.jsx";
 import Contacts from "./Components/Contacts.jsx";
-import Gstb from "./Components/gstb.jsx";
+import Gstb from "./Components/Gstb.jsx";
 function App() {
   const [isLoading, setIsLoading] = useState(true);
 
