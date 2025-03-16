@@ -4,7 +4,7 @@ import Navbar from "./Components/Navbar";
 import Dashboard from "./Components/Dashboard";
 import TaxCalculatorPage from "./TaxCalculator";
 import Login from "./Components/pages/login";
-import Signup from "./Components/pages/Signup";
+import Signup from "./Components/pages/signup";
 import InterestCalculator from "./calculators/InterestCalculator";
 import IncomeTaxCalculator from "./calculators/IncomeTaxCalculator";
 import GratuityCalculator from "./calculators/GratuityCalculator";
